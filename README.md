@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel-d3v&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-d3v" /> </p>
 
-<p>- 🌱 Atualmente estudando <strong>NodeJs</strong></p>
-
 <p>- 💬 Ask me about <strong>Javascript</strong></p>
 
 <p>- 📫 How to reach me <strong>xmiguelxpeixotox@gmail.com</strong></p>
