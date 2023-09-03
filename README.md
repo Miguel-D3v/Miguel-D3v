@@ -23,4 +23,4 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-D3v&theme=blue-green" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-D3v&theme=blue-green" align="center" width="70%" />
