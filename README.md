@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, my name is Miguel Modesto</h1>  
-<h3 align="center">💻 Web developer Backend</h3>  
+<img src="./assets/capa_github.png"  align="center" width="100%" />
   
 
 
@@ -8,8 +7,11 @@
 
   
 <h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/miguel-modesto-672b94232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-modesto-672b94232" height="30" width="40" /></a>  
+<p align="left">
+<a href="https://linkedin.com/in/miguel-modesto-672b94232" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguel-modesto-672b94232" height="" width="" /></a>  
+</p>  
+<p align="left">
+<a href="miguelmodesto00@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/></a>  
 </p>  
   
 <h3 align="left">Technologies:</h3>  
@@ -18,11 +20,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</p>
-  
-  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-D3v&theme=blue-green" align="center" width="80%" />
