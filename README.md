@@ -6,7 +6,7 @@
 
 
   
-<h3 align="left">Connect with me:</h3>  
+<h3 align="left">Find me:</h3>  
 <p align="left">
 <a href="https://linkedin.com/in/miguel-modesto-672b94232" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguel-modesto-672b94232" height="" width="" /></a>  
 </p>  
