@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Modesto</h1>
-<h3 align="center">Backend developer from Brazil</h3>
+<h3 align="center">Backend developer </h3>
 <h3> I have been a Backend developer for over 2 years with experience in personal and freelance projects using technologies such as Nodejs, Java, ExpressJS, and related and non-relational databases.
-My technical skills are more focused on Backend such as building APIs, Microservices and implementing services using Cloud Computing.
-I am currently looking for opportunities to gain more experience and add to my knowledge acquired so far.</h3>
+My technical skills are more focused on Backend such as building APIs, Microservices and implementing services using Cloud Computing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
