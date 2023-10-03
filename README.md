@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Miguel Modesto</h1>
+<h1 align="center">Olá 👋, meu nome é Miguel Modesto</h1>
 <h3 align="center">Backend developer </h3>
-<h3> I have been a Backend developer for over 2 years with experience in personal and freelance projects using technologies such as Nodejs, Java, ExpressJS, and related and non-relational databases.
-My technical skills are more focused on Backend such as building APIs, Microservices and implementing services using Cloud Computing.</h3>
+<p>
+  Sou desenvolvedor Backend há mais de 2 anos com experiência em projetos pessoais e freelance utilizando tecnologias como Nodejs, ExpressJS e bancos de dados relacionados e não relacionais. Minhas habilidades técnicas são mais voltadas para Backend como construção de APIs REST e Graphql , contruções de contracts, Microserviços e implementação de serviços utilizando Cloud Computing.
+</p>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Me encontre:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguel-modesto" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguel-modesto"   /></a>
 </p>
-<h3>Tecnologies:</h3>
+<h3>Tecnologias</h3>
 <h3 align="center">
 <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white"></img>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img>
@@ -19,6 +20,7 @@ My technical skills are more focused on Backend such as building APIs, Microserv
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
 </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-d3v&show_icons=true&locale=en&layout=compact" alt="miguel-d3v" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-D3v&theme=dark" alt="miguel-d3v" width="360">
+</p>
 
