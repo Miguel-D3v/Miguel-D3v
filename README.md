@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, meu nome é Miguel Modesto</h1>
 <h3 align="center">Backend developer </h3>
-<p>
-  Sou desenvolvedor Backend há mais de 2 anos com experiência em projetos pessoais e freelance utilizando tecnologias como Nodejs, ExpressJS e bancos de dados relacionados e não relacionais. Minhas habilidades técnicas são mais voltadas para Backend como construção de APIs REST e Graphql ,  Microserviços e implementação de serviços utilizando Cloud Computing.
+<p> Sou um desenvolvedor backend com dois anos de experiência. Tenho expertise em criação de APIs (REST e GraphQL) e resoluções de problemas com lógica de programação, trabalho com bancos de dados relacionais e não relacionais .
+
+Dê uma olhada nos meus projetos no GitHub para ver meu trabalho em ação. Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
 </p>
 
 
