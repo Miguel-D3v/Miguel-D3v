@@ -2,7 +2,7 @@
 <h3 align="center">Backend developer </h3>
 <p> Sou um desenvolvedor backend com dois anos de experiência. Tenho expertise em criação de APIs (REST e GraphQL) e resoluções de problemas com lógica de programação, trabalho com bancos de dados relacionais e não relacionais .
 
-Dê uma olhada nos meus projetos no GitHub para ver meu trabalho em ação. Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
+  Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
 </p>
 
 
