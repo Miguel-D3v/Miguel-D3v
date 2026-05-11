@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Miguel Modesto</h1>
 <h3 align="center">Backend developer </h3>
-<p> Sou um desenvolvedor backend com dois anos de experiência. Tenho expertise em criação de APIs (REST e GraphQL) e resoluções de problemas com lógica de programação, trabalho com bancos de dados relacionais e não relacionais .
+<p> Sou um desenvolvedor backend com tres anos de experiência. Com expertise em criação e otimização de APIs REST e resoluções de problemas com lógica de programação e utilização de bancos de dados relacionais e não relacionais .
 
   Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
 </p>
@@ -20,8 +20,5 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></img>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
+<img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"
 </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-D3v&theme=dark" alt="miguel-d3v" width="360">
-</p>
-
