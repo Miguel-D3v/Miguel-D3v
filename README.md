@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Miguel Modesto</h1>
 <h3 align="center">Backend developer </h3>
-<p> Sou um desenvolvedor backend com tres anos de experiência. Com expertise em criação e otimização de APIs REST e resoluções de problemas com lógica de programação e utilização de bancos de dados relacionais e não relacionais .
+<p> Sou um desenvolvedor backend com tres anos de experiência. Com expertise em criação e otimização de APIs REST e resoluções de problemas com lógica de programação e pensamento computacional , utilização de bancos de dados relacionais e não relacionais .
 
   Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
 </p>
@@ -18,7 +18,5 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></img>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
-<img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"
 </h3>
