@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Miguel Modesto</h1>
-<h3 align="center">Backend developer </h3>
-<p> Sou um desenvolvedor backend com tres anos de experiência. Com expertise em criação e otimização de APIs REST e resoluções de problemas com lógica de programação e pensamento computacional , utilização de bancos de dados relacionais e não relacionais .
+<h3 align="center">WEB DEVELOPER </h3>
+<p> Sou um desenvolvedor web com foco em backend com tres anos de experiência. Com expertise em criação e otimização de APIs REST e resoluções de problemas com lógica de programação e pensamento computacional , utilização de bancos de dados relacionais e não relacionais .
 
   Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
 </p>
