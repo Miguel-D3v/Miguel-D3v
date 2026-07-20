@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, meu nome é Miguel Modesto</h1>
 <h3 align="center">WEB DEVELOPER </h3>
-<p> Sou um desenvolvedor web com foco em backend com tres anos de experiência. Com expertise em criação e otimização de APIs REST e resoluções de problemas com lógica de programação e pensamento computacional , utilização de bancos de dados relacionais e não relacionais .
+<p> 👨‍💻 Graduando em Sistemas de Computação na UFF.
 
-  Estou sempre buscando desafios empolgantes e aberto a colaborações. Vamos trocar ideias!
+Gosto de transformar ideias em projetos, explorar novas tecnologias e aprender construindo. Aqui você vai encontrar APIs, aplicações web, CLIs e outros projetos que fazem parte da minha evolução como desenvolvedor.
 </p>
 
 
